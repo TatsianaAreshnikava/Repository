@@ -43,3 +43,5 @@ And did it my way
 
 Yes, it was my way
 __________________________________
+
+For commit only!
